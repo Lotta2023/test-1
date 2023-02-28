@@ -1,3 +1,8 @@
-# References
 
-* octocat 1 😈
+resume 
+references
+job
+main
+
+
+
